@@ -1,8 +1,8 @@
-# Spatial-Temporal Graph Learning with Self-supervised Spatial State Module for Traffic Accident Anticipation
+# GSC: A Graph and Spatio-temporal Continuity Based Framework for Accident Anticipation
 
 <img src="figures/pytorch-logo-dark.png" width="10%"> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-The repository contains the source code and pred-trained models of our paper: `Spatial-Temporal Graph Learning with Self-supervised Spatial State Module for Traffic Accident Anticipation`
+The repository contains the source code and pred-trained models of our paper: `GSC: A Graph and Spatio-temporal Continuity Based Framework for Accident Anticipation`
 
 <p align="center">
 <img src="figures/em.png" width="80%">
