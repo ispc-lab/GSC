@@ -5,7 +5,7 @@
 The repository contains the source code and pred-trained models of our paper: `GSC: A Graph and Spatio-temporal Continuity Based Framework for Accident Anticipation`
 
 <p align="center">
-<img src="figures/em.png" width="80%">
+<img src="figures/em.png" width="40%">
 </p>
 
 ## Architecture
@@ -63,5 +63,5 @@ pip install -r requirements.txt
 ## Visualize
 
 <p align="center">
-<img src="figures/image52.gif" width="80%">
+<img src="figures/image52.gif" width="60%">
 </p>
